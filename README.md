@@ -9,7 +9,3 @@ For each positive interaction of an individual (meaning it wins an encounter wit
 Note that the animation may not result completely necessary for the purpose of this project, but I thought it would be interesting to visualize it.
 
 
-aweawe
-tertrt
-fsdfsdf
-fffe
